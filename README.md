@@ -1,5 +1,5 @@
-# 🌐 TeraaLoader
-Free Tools Downloader File Terabox Via Url File
+# 🌐 SociaLoader
+Free Tools Downloader Photo/Video Of Social Media 
 
 # Instalasi 
 ```bash

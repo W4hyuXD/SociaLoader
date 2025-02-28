@@ -12,6 +12,15 @@ pip install -r requirements.txt
 python3 Run.py
 ```
 
+# Feature
+- Enter Folder/Automatically create folder to save files
+- Url Input
+- Select Media Quality
+  - HD
+  - SD
+  - (Depends on media)
+- History Download
+
 <details open>
   <summary><strong>📸 Screenshot</strong></summary>
  

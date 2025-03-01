@@ -1,7 +1,11 @@
 # 🌐 SociaLoader
 Free Tools Downloader Photo/Video Of Social Media 
 
-# Command
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
+## Command
 ```bash
 pkg upadte -y && pkg upgrade -y
 pkg install python
@@ -12,7 +16,7 @@ pip install -r requirements.txt
 python3 Run.py
 ```
 
-# Feature
+## Feature
 This tool supports downloading on various platforms such as: Facebook, Instagram, Tiktok, YouTube, and others.
 
 - Enter Folder/Automatically create folder to save files
@@ -32,7 +36,7 @@ This tool supports downloading on various platforms such as: Facebook, Instagram
 ![Image](https://github.com/user-attachments/assets/3cca2da5-50c7-4609-96a5-ce3f699ae683)
 </details>
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 Feel free to contact me if you want to collaborate on a project, or just chat!
 
